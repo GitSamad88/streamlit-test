@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("calculate x * y)
+st.title("calculate x * y")
 
 form=st.form(key="test")
 
